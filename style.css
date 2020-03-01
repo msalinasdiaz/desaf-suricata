@@ -1,0 +1,38 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* NAVBAR */
+
+nav {
+    background-color: #E83E8C;
+}
+
+.navbar {
+    background-color: #E83E8C;
+}
+
+/* SECCION 1 */
+
+
+
+
+/* SECCION 2 */
+
+.tarjetas {
+    height: 170px;
+    background-color: #17A2B8;
+}
+
+/* FOOTER */
+
+
+footer {
+    background-color: #E83E8C;
+    height: 184px;
+}
+
+.suricatologosolo {
+    padding-top: 40px;
+    text-align: center;
+}
